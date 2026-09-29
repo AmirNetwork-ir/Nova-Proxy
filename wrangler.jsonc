@@ -17,7 +17,7 @@
 
   "kv_namespaces": [
     {
-      "binding": "web-app",
+      "binding": "KV",
       "id": "0d9e92fe2af94474b34a757972c35282"
     }
   ],
