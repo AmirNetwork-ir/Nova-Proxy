@@ -10,15 +10,15 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "YOUR_D1_DATABASE_NAME",
-      "database_id": "YOUR_D1_DATABASE_ID"
+      "database_name": "web-app",
+      "database_id": "edbb4f28-f1e7-4988-8bf5-1fc912967922"
     }
   ],
 
   "kv_namespaces": [
     {
-      "binding": "KV",
-      "id": "YOUR_KV_NAMESPACE_ID"
+      "binding": "web-app",
+      "id": "0d9e92fe2af94474b34a757972c35282"
     }
   ],
 
